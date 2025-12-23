@@ -1,8 +1,19 @@
 # University Management System
 
-Java + MySQL based project to manage university student records and grades.
+A menu-driven University Management System built using Java that allows management of student records with full CRUD operations.
+
+## Features
+- Add new students
+- View all students
+- Update student details
+- Delete student records
+- Menu-driven console interface
 
 ## Tech Stack
 - Java
-- MySQL
-- JDBC
+- Object-Oriented Programming
+- Collections Framework (ArrayList)
+- Git & GitHub
+
+## Project Structure
+
